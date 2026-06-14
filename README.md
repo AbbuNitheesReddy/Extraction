@@ -19,7 +19,7 @@
 
 ## 📖 Overview
 
-**RIZEE Extraction** is an automated pipeline that converts exam PDF question papers into structured, ML-enriched records ready for the RIZEE educational database.
+**PDF Extraction** is an automated pipeline that converts exam PDF question papers into structured, ML-enriched records ready for the RIZEE educational database.
 
 | Stage | Input → Output | Engine |
 |---|---|---|
